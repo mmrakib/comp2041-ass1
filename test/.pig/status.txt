@@ -1,0 +1,4 @@
+name: 
+path: /mnt/m/Uni/comp2041/ass1/test/.pig
+working_dir: /mnt/m/Uni/comp2041/ass1/test
+current_branch: master
